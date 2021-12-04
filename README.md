@@ -13,5 +13,7 @@ Bootstrap, <br />
 jQuery, <br />
 PHPMailer  
 
+## Icons
+Font Awesome 
 ## Plugins
 jQuery Validation
